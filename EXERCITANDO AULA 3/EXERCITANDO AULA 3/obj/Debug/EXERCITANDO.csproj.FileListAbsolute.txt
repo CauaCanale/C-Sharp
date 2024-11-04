@@ -1,7 +1,0 @@
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\bin\Debug\Aula 3.exe.config
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\bin\Debug\Aula 3.exe
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\bin\Debug\Aula 3.pdb
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\obj\Debug\EXERCITANDO.csproj.AssemblyReference.cache
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\obj\Debug\EXERCITANDO.csproj.CoreCompileInputs.cache
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\obj\Debug\Aula 3.exe
-C:\Users\caua.cferreira2\source\repos\Aula 3\Aula 3\obj\Debug\Aula 3.pdb
