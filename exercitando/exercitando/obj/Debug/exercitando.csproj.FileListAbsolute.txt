@@ -1,0 +1,7 @@
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\obj\Debug\exercitando.csproj.AssemblyReference.cache
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\obj\Debug\exercitando.csproj.CoreCompileInputs.cache
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\bin\Debug\exercitando.exe.config
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\bin\Debug\exercitando.exe
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\bin\Debug\exercitando.pdb
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\obj\Debug\exercitando.exe
+C:\Users\caua.cferreira2\source\repos\exercitando\exercitando\obj\Debug\exercitando.pdb
